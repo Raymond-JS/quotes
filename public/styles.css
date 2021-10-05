@@ -12,6 +12,12 @@ body {
     background-color: #F5F5F5;   
 }
 
+.center {
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
 *:before,
 *:after {
  box-sizing: border-box;
@@ -22,7 +28,9 @@ body {
     color: white;
 }
 
-
+.topspace {
+    margin: 10px 10px !important;
+}
 
 
 header { 
